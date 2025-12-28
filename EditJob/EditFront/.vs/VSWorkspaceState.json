@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\router",
+    "\\src\\store",
+    "\\src\\views",
+    "\\src\\views\\BookShelfPage",
+    "\\src\\views\\Edit"
+  ],
+  "SelectedNode": "\\src\\views\\BookShelfPage\\index.vue",
+  "PreviewInSolutionExplorer": false
+}
